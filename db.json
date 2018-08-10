@@ -62,13 +62,6 @@
       "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
       "birthday": "February 11, 1847",
       "image_url": "https://picsum.photos/300/?random"
-    },
-    {
-      "id": "The Hunger Games",
-      "name": "Suzanne Collins",
-      "quote": "Winning will make you famous.  Losing means certain death.",
-      "birthday": "September 14, 2008",
-      "image_url": "https://picsum.photos/300/?random"
     }
   ]
 }
